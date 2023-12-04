@@ -1,0 +1,16 @@
+body {
+    background-color: #ffff;
+}
+.logo {
+    max-width: 100px; 
+    height: auto; 
+    display: block;
+    margin: auto 35%;
+}
+.navbar-nav .nav-item{
+    padding-left: 70px;
+}
+.navbar-nav .nav-item .nav-link {
+    padding-right: 70px; 
+    padding-left: 70px;  
+}
