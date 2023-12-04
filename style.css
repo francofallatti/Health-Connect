@@ -7,3 +7,9 @@ body {
     display: block;
     margin: 2px 1em 0 30px;
 }
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
